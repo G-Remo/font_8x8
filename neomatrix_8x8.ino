@@ -1,7 +1,7 @@
 #include <Adafruit_GFX.h>
 #include <Adafruit_NeoMatrix.h>
 #include <Adafruit_NeoPixel.h>
-#include "font.h"
+#include "font_8x8.h"
 #include "font_chiffre.h"
 
 #define PIN 13
