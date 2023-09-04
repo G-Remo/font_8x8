@@ -2,7 +2,7 @@
 Une police de caracteres pour NeoMatrix (Adafruit)
 Testé sur un esp32
 
-Une police de caractères adapté pour les matrices à LED type WS2812.
+Une police de caractères adapté pour les matrices à LEDs 8 * 8  et plus.
 
 Les caractères standard et quelques un accentué (é è ê ë ù û à â ï).
 
